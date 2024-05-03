@@ -62,6 +62,3 @@ This project can be easily utilized in Google Colab, a cloud-based platform for 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
----
-
-Feel free to customize it further to suit your project's specific details and requirements!
